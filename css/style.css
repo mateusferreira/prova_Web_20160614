@@ -18,3 +18,24 @@ table, th, td {
     padding: 10px;
 }
 
+section {
+	padding:10px;
+}
+
+section dl {
+	width: 340px;
+	height: 80px;
+	border: 1px solid #ccc;
+	box-shadow: 1px 1px 3px #ccc, -1px -1px 3px #ccc;
+	float: left;
+	margin-right: 10px;
+}
+
+	
+
+.produto, .valor {
+	width: 200px;
+	float: left;
+	margin: 12px 0 0 8px;
+}
+
